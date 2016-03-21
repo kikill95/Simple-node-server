@@ -1,0 +1,13 @@
+{
+  "name": "node-server-test",
+  "version": "1.0.0",
+  "author": "kirill.gus@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  },
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
